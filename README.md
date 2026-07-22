@@ -38,18 +38,6 @@ Olá, Bem vindo!
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://aws.amazon.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
       <a href="https://www.postgresql.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
       </a>
@@ -60,6 +48,12 @@ Olá, Bem vindo!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
       </a>
       <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <!-- Espaço vazio ou pode adicionar outra tecnologia -->
+    </td>
+    <td align="center" width="96">
+      <!-- Espaço vazio ou pode adicionar outra tecnologia -->
     </td>
   </tr>
 </table>
