@@ -4,10 +4,18 @@
 [![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo-PDF-020114?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/daviabrt/daviabrt/main/Davi-CV.pdf)
 [![GitHub Projects](https://img.shields.io/badge/Projetos-020114?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daviabrt?tab=repositories)
 
-Olá, Bem vindo! 
-2️⃣0️⃣2️⃣6️⃣
+Olá, Bem vindo! 2️⃣0️⃣2️⃣6️⃣
 
-> Languages, librarys, and other things that I like to work with.
+## 🔍 Sobre Mim
+- **Engenheiro Eletricista** com foco em mercado de Energia e Programação Dinâmica Dual Estocástica SDDP.
+- **Experiência** Python, Java, SQL e softwares energéticos como NEWAVE,DECOMP e DESSEM.
+- **3+ anos** construindo com ferramentas que impactam mercado de energia.
+- **Objetivo**: Desenvolver soluções inovadoras que integram dados de Energia com decisões reais.
+- **Paricipação em +5 Hackathons do setor energético**
+- **Skills**:
+  - Trabalho em equipe multidisciplinar.
+  - Resolução de problemas.
+  - Proatividade, comunicação e oratória.
 
 <table>
   <tr>
