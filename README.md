@@ -5,8 +5,10 @@
 )
 [![GitHub Projects](https://img.shields.io/badge/Projetos-020114?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daviabrt?tab=repositories)
 
-Olá, Bem vindo! 2️⃣0️⃣2️⃣6️⃣
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
+
 
 ## 🔍 Sobre Mim
 - **Engenheiro Eletricista** com foco em mercado de Energia e Programação Dinâmica Dual Estocástica SDDP.
